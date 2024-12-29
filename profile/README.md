@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="#" width="100"/>
+  <img src="https://us-east-1.tixte.net/uploads/files.cdworld.xyz/cdteam-logo.png" width="100"/>
 </div>
   <div id="badges" align="center"> 
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/CoohCooh?label=Me%20Siga&logo=Github&style=social">
