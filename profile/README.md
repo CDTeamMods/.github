@@ -14,7 +14,6 @@ A CDTeam acredita que **tecnologia de qualidade deve ser acessível a todos**. P
 ## 🚀 Nossos Projetos
 
 ### 🚧 Projetos em desenvolvimento
-- [Achievements Manager](https://github.com/CDTeamMods/Achievements-Manager)
 - [TI-WebControl](https://github.com/CDTeamMods/TI-WebControl)
 
 ## 📊 Estatísticas
