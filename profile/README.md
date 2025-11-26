@@ -15,6 +15,7 @@ A CDTeam acredita que **tecnologia de qualidade deve ser acessível a todos**. P
 
 ### 🚧 Projetos em desenvolvimento
 - [TI-WebControl](https://github.com/CDTeamMods/TI-WebControl)
+- [CDFlix](https://cdflix.cdteam.xyz)
 
 ## 📊 Estatísticas
 
