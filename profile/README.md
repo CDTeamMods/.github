@@ -15,10 +15,9 @@ A CDTeam acredita que **tecnologia de qualidade deve ser acessível a todos**. P
 
 ### 🚧 Projetos/Fork em desenvolvimento
 - [TI-WebControl](https://github.com/CDTeamMods/TI-WebControl)
-- [Git-Auto-Deploy](https://github.com/CDTeamMods/Git-Auto-Deploy)
 
 ## 🔧 Projetos/Fork Completos
-- [CDFlix](https://cdflix.cdteam.xyz)
+- #
 
 ## 📊 Estatísticas
 
