@@ -14,10 +14,10 @@ A CDTeam acredita que **tecnologia de qualidade deve ser acessível a todos**. P
 ## 🚀 Nossos Projetos
 
 ### 🚧 Projetos/Fork em desenvolvimento
-- [TI-WebControl](https://github.com/CDTeamMods/TI-WebControl)
+- Nada
 
 ## 🔧 Projetos/Fork Completos
-- Nada
+- [TI-WebControl](https://github.com/CDTeamMods/TI-WebControl)
 
 ## 📊 Estatísticas
 
